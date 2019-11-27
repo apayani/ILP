@@ -1,7 +1,9 @@
 # dNLILP
+Written by Ali Payani
+
+Based on paper : https://arxiv.org/pdf/1906.03523.pdf
 
 
-The software is privided as supplementary material for the paper "Inductive Logic Programming via Differentiable Neural Logic Networks" submitted to AAAI20
 The software is tested using python 3.6 and Tensorflow 1.13
 Each experiment is a single Python file located in the root folder and all the experiments use the common library for dNL-ILP located in Lib folder.
 
